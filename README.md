@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-# robo-friends
-=======
->>>>>>> c68697c... readme
-=======
-# robo-friends
-=======
->>>>>>> 2dce01e91e3ea28dbd2c68acdf797865df5458ba
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -74,14 +61,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 8adc1d9... Added card component
->>>>>>> c68697c... readme
-=======
->>>>>>> 8adc1d9... Added card component
->>>>>>> 2dce01e91e3ea28dbd2c68acdf797865df5458ba
