@@ -14,13 +14,18 @@
 
 * For fetching robots : https://robohash.org/
 
+## Prerequisites
+
+* node >= 12.18.0
+* npm >= 6.14.4
+
 ## Installation
 
 1. Clone this repo
 
 2. Inside the project open a terminal and run:
 
-  `npm start`
+    `npm install`
   
 3. To start the server run:
     
