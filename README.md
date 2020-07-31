@@ -30,6 +30,13 @@
 3. To start the server run:
     
     `npm start`
+
+## Screenshot
+
+![Screenshot from 2020-07-31 21-59-55](https://user-images.githubusercontent.com/51266566/89056585-dc5ff080-d379-11ea-9769-bed01a802a4c.png)
+
+![Screenshot from 2020-07-31 22-00-02](https://user-images.githubusercontent.com/51266566/89056593-e255d180-d379-11ea-9ee6-a3bf1c79ff76.png)
+
     
 
 
